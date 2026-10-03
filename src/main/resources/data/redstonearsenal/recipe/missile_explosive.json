@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" F ", "ITI", "IRI"],
+  "key": {
+    "F": { "item": "minecraft:firework_rocket" },
+    "I": { "item": "minecraft:iron_ingot" },
+    "T": { "item": "minecraft:tnt" },
+    "R": { "item": "minecraft:redstone" }
+  },
+  "result": { "id": "redstonearsenal:missile_explosive", "count": 1 }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "redstonearsenal:block/orbital_cannon_top_on",
+    "bottom": "redstonearsenal:block/orbital_cannon_bottom",
+    "side": "redstonearsenal:block/orbital_cannon_side"
+  }
+}

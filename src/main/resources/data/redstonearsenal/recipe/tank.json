@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [" D ", "IBI", "OOO"],
+  "key": {
+    "D": { "item": "minecraft:dispenser" },
+    "I": { "item": "minecraft:iron_block" },
+    "B": { "item": "minecraft:blast_furnace" },
+    "O": { "item": "minecraft:obsidian" }
+  },
+  "result": { "id": "redstonearsenal:tank", "count": 1 }
+}

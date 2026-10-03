@@ -1,0 +1,4 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": { "layer0": "redstonearsenal:item/missile_terraformer" }
+}

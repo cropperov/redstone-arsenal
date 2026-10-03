@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "powered=false": { "model": "redstonearsenal:block/orbital_cannon" },
+    "powered=true":  { "model": "redstonearsenal:block/orbital_cannon_on" }
+  }
+}

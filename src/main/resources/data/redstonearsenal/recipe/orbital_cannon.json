@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": ["OBO", "DND", "ORO"],
+  "key": {
+    "O": { "item": "minecraft:obsidian" },
+    "B": { "item": "minecraft:beacon" },
+    "D": { "item": "minecraft:diamond_block" },
+    "N": { "item": "minecraft:nether_star" },
+    "R": { "item": "minecraft:redstone_block" }
+  },
+  "result": { "id": "redstonearsenal:orbital_cannon", "count": 1 }
+}
